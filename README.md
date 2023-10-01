@@ -1,6 +1,6 @@
-# mahmmm.github.io
+# maymunsun.github.io/maymunsun-websitesi/
 
-My Website
+My Monkey Website
 
 
 By AkefStudios
